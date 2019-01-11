@@ -1,1 +1,2 @@
-# ArduinoTask
+# Arduinoの回路のやつ
+講義の課題のリポジトリ
